@@ -1,0 +1,98 @@
+ Source doc: https://docs.google.com/open?id=1hXhG9zITgilPQifANgdSVMv6495ivWvGYZfX6CiBwuI
+* This document has images: check for >>>>>  gd2md-html alert:  inline image link in generated source and store images to your server.
+----->
+
+
+<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 0; ALERTS: 4.</p>
+<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
+
+<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
+<a href="#gdcalert2">alert2</a>
+<a href="#gdcalert3">alert3</a>
+<a href="#gdcalert4">alert4</a>
+
+<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
+
+<h2>Fresh Delights</h2>
+<h4>Fresh Catering</h4>
+<p>
+<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html
+alert: inline image link here (to images/fest-resume0.png). Store image on your
+image server and adjust path/filename if necessary. </span><br>(<a href="#">Back
+to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red;
+font-weight: bold">>>>>> </span></p>
+<img src="images/fest-resume0.png" width="" alt="alt_text"
+title="image_tooltip">
+</p>
+<h2>Healthy Solutions</h2>
+<p>
+Having the experience and of festival catering, Fresh Delights Offer a Healthy
+Solution for your events. We are Five-star caterers offering a five-star service
+Operating our service from a Catering street food stall, with Qualified Cooks.
+We only use the best f Local produce to support our local growers and suppliers.
+<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html
+alert: inline image link here (to images/fest-resume1.png). Store image on your
+image server and adjust path/filename if necessary. </span><br>(<a href="#">Back
+to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red;
+font-weight: bold">>>>>> </span></p>
+<img src="images/fest-resume1.png" width="" alt="alt_text"
+title="image_tooltip">
+</p>
+<p>
+<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html
+alert: inline image link here (to images/fest-resume2.png). Store image on your
+image server and adjust path/filename if necessary. </span><br>(<a href="#">Back
+to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red;
+font-weight: bold">>>>>> </span></p>
+<img src="images/fest-resume2.png" width="" alt="alt_text"
+title="image_tooltip">
+</p>
+<h2>2021</h2>
+<p>
+fruit box
+</p>
+<p>
+fruit kebab
+</p>
+<p>
+Rainbow kebab
+</p>
+<p>
+Melon melody
+</p>
+<p>
+Salad platter
+</p>
+<p>
+vegetable platter,
+</p>
+<p>
+Salad box
+</p>
+<p>
+BBQ Kebabs
+</p>
+<p>
+BBQ Grilled Vegetables
+</p>
+<p>
+Warm  Pepper Kebabs
+</p>
+<p>
+Fresh yogurt
+</p>
+<p>
+Hummus
+</p>
+<p>
+Beetroot dip
+</p>
+<p>
+<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html
+alert: inline image link here (to images/fest-resume3.png). Store image on your
+image server and adjust path/filename if necessary. </span><br>(<a href="#">Back
+to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red;
+font-weight: bold">>>>>> </span></p>
+<img src="images/fest-resume3.png" width="" alt="alt_text"
+title="image_tooltip">
+</p>
